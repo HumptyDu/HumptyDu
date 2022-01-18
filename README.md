@@ -1,7 +1,9 @@
 - 👋 Hi, I’m @HumptyDu, also known as Shady 
-- 👀 I’m interested in all kinds of development really, but I like web development the most probably
-- 🌱 I’m currently learning operating systems development and security
+- 👀 Interested in all kinds of development with a focus on web development
+- 🌱 I’m currently focusing on learning security(encrpytion) and networking
 - 📫 shadyashraf2002@gmail.com
+- 📞 306-914-8918
+- 📌 Ottawa, Ontario, Canada
 
 <!---
 HumptyDu/HumptyDu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
