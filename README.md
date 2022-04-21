@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @HumptyDu, also known as Shady 
 - 👀 Interested in all kinds of development with a focus on web development
-- 🌱 I’m currently focusing on learning security (encryption) 
+- 🌱 I’m currently focusing on learning security (encryption) and systems programming
 - 📫 shadyashraf2002@gmail.com
-- 📞 306-914-8918
+- 📞 343-551-5023
 - 📌 Ottawa, Ontario, Canada
 
 <!---
